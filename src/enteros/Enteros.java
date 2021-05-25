@@ -5,7 +5,11 @@ public class Enteros {
 //Desde aquí se declara de forma estática una variable factorial numérica
 public static int r_factorial(int n) {
 		int resultado;
-
+//Esta linea y las tres siguientes
+				/*Son comentarios
+				 * Despues de haber subido el primer gedit
+				 * Y para actualizarlo
+				 */
 		if (n == 0) {
 			resultado = 1;
 		} else {
